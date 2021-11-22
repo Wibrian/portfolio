@@ -73,3 +73,21 @@
 .size-image {
   width: 200px;
 }
+
+@media screen and (max-width: 990px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .row-respon {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .row-respon-left {
+    text-align: left;
+  }
+}
