@@ -79,3 +79,9 @@
     text-align: center;
   }
 }
+
+@media screen and (max-width: 990px) {
+  .row-respon {
+    text-align: center;
+  }
+}
